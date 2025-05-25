@@ -1,9 +1,9 @@
-# VocabularyCard 
+# VocabularyFlashCard 
 _A Simple Flashcard App for Learning English Vocabulary_
 
 # About
 
-**VocabularyCard** is a beginner-friendly, command-line flashcard program written in Python.  
+**VocabularyFlashCard** is a beginner-friendly, command-line flashcard program written in Python.  
 It helps users practice English vocabulary by reviewing and testing word translations.
 
 This project was created as part of the COMP9001 Python Final Project. It includes three main features:  
